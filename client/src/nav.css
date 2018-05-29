@@ -1,0 +1,7 @@
+.nav-container{
+    height: 85px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    line-height: 50px;
+}
